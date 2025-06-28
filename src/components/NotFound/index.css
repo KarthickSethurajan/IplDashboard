@@ -1,0 +1,12 @@
+.not-found-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.notfoundHeading {
+  color: #ffffff;
+  font-size: 60px;
+  font-weight: bold;
+}
