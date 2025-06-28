@@ -37,7 +37,7 @@ body {
   align-items: center;
 }
 
-.logoContainer{
+.logoContainer {
   display: flex;
   flex-direction: row;
 }
